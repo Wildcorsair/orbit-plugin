@@ -21,3 +21,4 @@ define( 'ORBIT_PLUGINS_DIR', plugin_dir_path( __FILE__ ) );
 require ORBIT_PLUGINS_DIR . 'inc/register-job-type.php';
 require ORBIT_PLUGINS_DIR . 'inc/register-job-taxonomy.php';
 require ORBIT_PLUGINS_DIR . 'inc/register-custom-fields.php';
+require ORBIT_PLUGINS_DIR . 'inc/settings-page.php';
